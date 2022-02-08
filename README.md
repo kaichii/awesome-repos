@@ -29,3 +29,4 @@
 - [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)：生成 github 状态
 - [prisma](https://github.com/prisma/prisma)：ORM
 - [codemirror](https://github.com/codemirror/codemirror.next)：浏览器代码编辑
+- [utility-types](https://github.com/piotrwitek/utility-types)：typescript 工具类型
