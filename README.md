@@ -10,7 +10,7 @@
 - [redux-toolkit](https://github.com/reduxjs/redux-toolkit)：不用再写模版代码啦
 - [swr](https://github.com/vercel/swr)：获取数据 Hook
 - [dnd-kit](https://github.com/clauderic/dnd-kit)：dnd kit for react
-- [react-three-fiber](https://github.com/pmndrs/react-three-fiber)：react render for three.js
+- [react-three-fiber](https://github.com/pmndrs/react-three-fiber)：react Three.js 渲染器
 - [react-spring](https://github.com/pmndrs/react-spring)：基于弹簧效果的动画库
 
 ## 语言
