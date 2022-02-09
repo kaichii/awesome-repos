@@ -30,3 +30,4 @@
 - [prisma](https://github.com/prisma/prisma)：ORM
 - [codemirror](https://github.com/codemirror/codemirror.next)：浏览器代码编辑
 - [utility-types](https://github.com/piotrwitek/utility-types)：typescript 工具类型
+- [tauri](https://github.com/tauri-apps/tauri)：跨平台应用开发框架
