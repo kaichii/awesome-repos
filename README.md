@@ -11,7 +11,7 @@
 - [swr](https://github.com/vercel/swr)：获取数据 Hook
 - [dnd-kit](https://github.com/clauderic/dnd-kit)：dnd kit for react
 - [react-three-fiber](https://github.com/pmndrs/react-three-fiber)：react render for three.js
-- [react-spring](https://github.com/pmndrs/react-spring)：让组件活起来
+- [react-spring](https://github.com/pmndrs/react-spring)：基于弹簧效果的动画库
 
 ## 语言
 
