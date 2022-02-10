@@ -16,6 +16,7 @@
 ## 语言
 
 - [rust-course](https://github.com/sunface/rust-course)：rust 圣经
+- [rust 算法](https://github.com/course-rs/algos)：rust 算法
 - [you-dont-know-js](https://github.com/getify/You-Dont-Know-JS)：你真的懂 javascript?
 
 ## CSS
