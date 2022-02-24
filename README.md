@@ -34,4 +34,5 @@
 - [utility-types](https://github.com/piotrwitek/utility-types)：typescript 工具类型
 - [tauri](https://github.com/tauri-apps/tauri)：跨平台应用开发框架
 - [Perspec](https://github.com/feramhq/Perspec)：修正图片里透视变形的物体
+- [learnGitBranching](https://github.com/pcottle/learnGitBranching)：learn git
 
