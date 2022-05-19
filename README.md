@@ -13,6 +13,7 @@
 - [react-three-fiber](https://github.com/pmndrs/react-three-fiber)：react Three.js 渲染器
 - [react-spring](https://github.com/pmndrs/react-spring)：基于弹簧效果的动画库
 - [react-mosaic](https://github.com/nomcopter/react-mosaic)：window manager
+- [remotion](https://github.com/remotion-dev/remotion)：通过编程的方式制作视频
 
 ## 语言
 
