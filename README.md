@@ -1,6 +1,6 @@
-# ⭐ 仓库整理
+### Repos 🌟
 
-## React
+#### React
 
 - [nextjs](https://github.com/vercel/next.js)：react ssr framework
 - [react-window](https://github.com/bvaughn/react-window)：大型组件优化
@@ -15,17 +15,17 @@
 - [react-mosaic](https://github.com/nomcopter/react-mosaic)：window manager
 - [remotion](https://github.com/remotion-dev/remotion)：通过编程的方式制作视频
 
-## 语言
+#### 语言
 
 - [rust-course](https://github.com/sunface/rust-course)：rust 圣经
 - [rust 算法](https://github.com/course-rs/algos)：rust 算法
 - [you-dont-know-js](https://github.com/getify/You-Dont-Know-JS)：你真的懂 javascript?
 
-## CSS
+#### CSS
 
 - [tailwindcss](https://github.com/tailwindlabs/tailwindcss)：css framework
 
-## 其他
+#### 其他
 
 - [unified](https://github.com/unifiedjs/unified)：建构化文本 [remark](https://github.com/remarkjs/remark)(Markdown)、[rehype](https://github.com/rehypejs/rehype)(HTML)、[retext](https://github.com/retextjs/retext)(纯文本)...
 - [giscus](https://github.com/giscus/giscus)：基于 github discussion 的评论系统
@@ -37,4 +37,8 @@
 - [tauri](https://github.com/tauri-apps/tauri)：跨平台应用开发框架
 - [Perspec](https://github.com/feramhq/Perspec)：修正图片里透视变形的物体
 - [learnGitBranching](https://github.com/pcottle/learnGitBranching)：learn git
+- [floating-ui](https://github.com/floating-ui/floating-ui): floating element
+- [boring-avatars](https://github.com/boringdesigners/boring-avatars): 头像生成
+- [emoji-mart](https://github.com/missive/emoji-mart): emoji picker
+- [filepond](https://github.com/pqina/filepond): 文件上传
 
