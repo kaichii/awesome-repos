@@ -27,7 +27,7 @@
 
 #### 其他
 
-- [unified](https://github.com/unifiedjs/unified)：建构化文本 [remark](https://github.com/remarkjs/remark)(Markdown)、[rehype](https://github.com/rehypejs/rehype)(HTML)、[retext](https://github.com/retextjs/retext)(纯文本)...
+- [unified](https://github.com/unifiedjs/unified)：结构化文本 [remark](https://github.com/remarkjs/remark)(Markdown)、[rehype](https://github.com/rehypejs/rehype)(HTML)、[retext](https://github.com/retextjs/retext)(纯文本)...
 - [giscus](https://github.com/giscus/giscus)：基于 github discussion 的评论系统
 - [prism](https://github.com/PrismJS/prism)：代码块高亮
 - [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)：生成 github 状态
